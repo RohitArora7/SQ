@@ -5,7 +5,7 @@
 
 "issuer":"http://localhost:8080/realms/SQ",
 
-"jwks_uri":"https://raw.githubusercontent.com/RohitArora7/SQ/master/jwks.json",
+"jwks_uri":"https://raw.githubusercontent.com/RohitArora7/SQ/master/",
 
 "response_types_supported":["code","none","id_token","token","id_token token","code id_token","code token","code id_token token"],
 
