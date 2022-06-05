@@ -5,9 +5,5 @@
 
 "issuer":"http://localhost:8080/realms/SQ",
 
-"jwks_uri":"https://raw.githubusercontent.com/RohitArora7/SQ/master/",
-
-"token_endpoint_auth_methods_supported":["private_key_jwt","client_secret_basic","client_secret_post","tls_client_auth","client_secret_jwt"],
-
 "userinfo_endpoint":"http://localhost:8080/realms/SQ/protocol/openid-connect/userinfo"}
 
