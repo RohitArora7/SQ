@@ -1,9 +1,3 @@
 
-{"authorization_endpoint":"http://localhost:8080/realms/SQ/protocol/openid-connect/auth",
-
-"id_token_signing_alg_values_supported":["RS256"],
-
-"issuer":"http://localhost:8080/realms/SQ",
-
-"userinfo_endpoint":"http://localhost:8080/realms/SQ/protocol/openid-connect/userinfo"}
+{"authorization_endpoint":"http://localhost:8080/realms/SQ/protocol/openid-connect/auth"}
 
